@@ -22,8 +22,8 @@
     <favorites_list name="testProject" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="108" />
-    <option name="y" value="22" />
+    <option name="x" value="802" />
+    <option name="y" value="506" />
     <option name="width" value="1330" />
     <option name="height" value="860" />
   </component>
@@ -100,7 +100,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="108" y="22" width="1330" height="860" extended-state="0" />
+    <frame x="802" y="506" width="1330" height="860" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
